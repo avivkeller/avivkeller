@@ -1,16 +1,14 @@
 ### Hi there 👋
+I'm Red Yeti Dev.
 
-<!--
-**RedYetiDev/RedYetiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to code in Python, JavaScript and HTML. 
 
-Here are some ideas to get you started:
+#### My Website
+Check my site (Still in development) by using [this link](https://github.com/RedYetiDev/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projects
+- Blooket API - [Repository](https://github.com/RedYetiDev/Blooket-API), [Website](https://redyetidev.github.io/Blooket-API)
+- First Transcontinental Railroad Project site - [Repository](https://github.com/RedYetiDev/First-Transcontinental-Railroad), [Website](https://redyetidev.github.io/First-Transcontinental-Railroad)
+
+##### In development
+- Blooket.JS - Node.JS package and Repository coming soon
