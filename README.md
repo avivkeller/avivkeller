@@ -4,7 +4,7 @@ I'm Red Yeti Dev.
 I like to code in Python, JavaScript and HTML. 
 
 #### My Website
-Check my site (Still in development) by using [this link](https://github.com/RedYetiDev/)
+Check my site (Still in development) by using [this link](redyetidev.github.io)
 
 #### Projects
 - Blooket API - [Repository](https://github.com/RedYetiDev/Blooket-API), [Website](https://redyetidev.github.io/Blooket-API)
