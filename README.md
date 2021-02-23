@@ -3,14 +3,31 @@ I'm Red Yeti Dev.
 
 I like to code in Python, JavaScript and HTML. 
 
-#### My Website
-Check my site (Still in development) by using [this link](https://redyetidev.github.io)
+#### [My WebSite](https://redyetidev.github.io)
 
 #### Projects
-- Blooket API - [Repository](https://github.com/RedYetiDev/Blooket-API), [Website](https://redyetidev.github.io/Blooket-API)
-- Blooket.JS - [Repository](https://github.com/RedYetiDev/blooket.js), [Documentation/Website](https://blooket.js.org)
-- First Transcontinental Railroad Project site - [Repository](https://github.com/RedYetiDev/First-Transcontinental-Railroad), [Website](https://redyetidev.github.io/First-Transcontinental-Railroad)
-- embedCode - [Repository](https://github.com/RedYetiDev/embedCpde), [Website](https://redyetidev.github.io/embedCode)
+- [![Blooket.js](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=blooket.js)](https://github.com/redyetidev/blooket.js)
+
+  [Repository](https://github.com/RedYetiDev/blooket.js), [Documentation/Website](https://blooket.js.org)
+
+  <hr>
+
+- [![Blooket-API](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=Blooket-API)](https://github.com/redyetidev/Blooket-API)
+
+  [Repository](https://github.com/RedYetiDev/Blooket-API), [Website](https://redyetidev.github.io/Blooket-API)
+  
+  <hr>
+  
+- [![FCRR](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=First-Transcontinental-Railroad)](https://github.com/redyetidev/First-Transcontinental-Railroad)
+
+  [Repository](https://github.com/RedYetiDev/First-Transcontinental-Railroad), [Website](https://redyetidev.github.io/First-Transcontinental-Railroad)
+  
+  <hr>
+  
+- [![embedCode](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=embedCode)](https://github.com/redyetidev/embedCode)
+
+  [Repository](https://github.com/RedYetiDev/embedCode), [Website](https://redyetidev.github.io/embedCode)
+  
 
 
 #### My Stats
@@ -18,5 +35,6 @@ Check my site (Still in development) by using [this link](https://redyetidev.git
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redyetidev&theme=radical)
 
-#### My Top Repo
+#### My Favorite Repos
 [![Blooket.js](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=blooket.js)](https://github.com/redyetidev/blooket.js)
+[![Portfolio Jekyll Theme](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=Portfolio-Theme)](https://github.com/redyetidev/Portfolio-Theme)
