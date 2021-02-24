@@ -37,4 +37,4 @@ I like to code in Python, JavaScript and HTML.
 
 #### My Favorite Repos
 [![Blooket.js](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=blooket.js)](https://github.com/redyetidev/blooket.js)
-[![Portfolio Jekyll Theme](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=Portfolio-Theme)](https://github.com/redyetidev/Portfolio-Theme)
+[![DarkFolio Jekyll Theme](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=DarkFolio)](https://github.com/redyetidev/DarkFolio)
