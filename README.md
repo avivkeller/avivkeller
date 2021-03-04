@@ -19,7 +19,7 @@ I like to code in Python, JavaScript and HTML.
   - [blooket.js](https://github.com/redyetidev/blooket.js)
     - [NPM Package](https://npmjs.com/package/blooket.js)
     - [GitHub Package](https://github.com/RedYetiDev/blooket.js/packages/627303)
-  - [fs-gui]
+  - [fs-gui](https://github.com/redyetidev/fs-gui)
     - [NPM Package](https://npmjs.com/package/fs-gui)
     - [GitHub Package](https://github.com/RedYetiDev/fs-gui/packages/647885)
 #### RubyGems
