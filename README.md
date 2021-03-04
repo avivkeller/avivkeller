@@ -3,7 +3,7 @@ I'm Red Yeti Dev.
 
 I like to code in Python, JavaScript and HTML. 
 
-#### [My WebSite](https://redyetidev.github.io)
+#### [My Website](https://redyetidev.github.io)
 
 
 #### My Projects
