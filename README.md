@@ -7,6 +7,7 @@ I like to code in Python, JavaScript and HTML.
 
 
 #### My Projects
+[![fs-gui](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=fs-gui)](https://github.com/redyetidev/fs-gui)
 [![DarkFolio](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=DarkFolio)](https://github.com/redyetidev/DarkFolio)
 [![Blooket.js TAKEN DOWN](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=blooket.js)](https://github.com/redyetidev/blooket.js)
 [![Blooket.js-web TAKEN DOWN](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=blooket.js-web)](https://github.com/redyetidev/blooket.js-web)
