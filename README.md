@@ -12,7 +12,6 @@ I like to code in Python, JavaScript and HTML.
 [![DarkFolio](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=DarkFolio)](https://github.com/redyetidev/DarkFolio)
 [![Blooket.js TAKEN DOWN](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=blooket.js)](https://github.com/redyetidev/Blooket.js)
 [![Blooket-API TAKEN DOWN](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=blooket-API)](https://github.com/redyetidev/Blooket-API)
-[![EmbedCode](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=EmbedCode)](https://github.com/redyetidev/EmbedCode)
 
 
 #### My Packages
