@@ -1,11 +1,14 @@
 ### Hi there 👋
+
 I'm RedYetiDev.
+---
 
 I like to code in Python, JavaScript and HTML. 
 
-#### [My Website](https://redyetidev.github.io)
+You can visit my [website](https://redyetidev.github.io), or just send me an [email](mailto:redyetidev@gmail.com)
 
-
+My Stuff
+---
 #### My Projects
 [![Terminal Tools](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=terminaltools)](https://github.com/redyetidev/terminaltools)
 [![fs-gui](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=fs-gui)](https://github.com/redyetidev/fs-gui)
