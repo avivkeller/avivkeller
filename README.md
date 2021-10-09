@@ -10,6 +10,7 @@ You can visit my [website](https://redyetidev.github.io), or just send me an [em
 My Stuff
 ---
 #### My Projects
+[![Quizlet.JS](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=Quizlet.JS)](https://github.com/redyetidev/Quizlet.JS)
 [![Terminal Tools](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=terminaltools)](https://github.com/redyetidev/terminaltools)
 [![fs-gui](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=fs-gui)](https://github.com/redyetidev/fs-gui)
 [![DarkFolio](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=DarkFolio)](https://github.com/redyetidev/DarkFolio)
@@ -20,6 +21,9 @@ My Stuff
 #### My Packages
 
 ##### NPM
+ - [Quizlet.JS](https://github.com/redyetidev/Quizlet.JS)
+    - [NPM Package](https://www.npmjs.com/package/quizlet.js)
+    - [GitHub Package](https://github.com/RedYetiDev/Quizlet.JS/packages/1034993)
   - [blooket.js TAKEN DOWN](https://github.com/redyetidev/blooket.js)
     - [NPM Package TAKEN DOWN](https://npmjs.com/package/blooket.js)
     - [GitHub Package TAKEN DOWN](https://github.com/RedYetiDev/blooket.js/packages/627303)
