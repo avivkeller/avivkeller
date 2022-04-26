@@ -11,10 +11,17 @@ My Stuff
 ---
 #### My Projects
 [![Quizlet.JS](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=Quizlet.JS)](https://github.com/redyetidev/Quizlet.JS)
+
+[![TermView](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=termview)](https://github.com/redyetidev/termview)
+
 [![Terminal Tools](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=terminaltools)](https://github.com/redyetidev/terminaltools)
+
 [![fs-gui](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=fs-gui)](https://github.com/redyetidev/fs-gui)
+
 [![DarkFolio](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=DarkFolio)](https://github.com/redyetidev/DarkFolio)
+
 [![Blooket.js TAKEN DOWN](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=blooket.js)](https://github.com/redyetidev/Blooket.js)
+
 [![Blooket-API TAKEN DOWN](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=blooket-API)](https://github.com/redyetidev/Blooket-API)
 
 
@@ -33,6 +40,9 @@ My Stuff
  - [Terminal Tools](https://github.com/redyetidev/terminaltools)
     - [NPM Package](https://npmjs.com/package/terminaltools)
     - [GitHub Package](https://github.com/RedYetiDev/terminaltools/packages/661795)
+ - [TermView](https://github.com/redyetidev/termview)
+    - [NPM Package](https://npmjs.com/package/termview)
+    - [GitHub Package](https://github.com/RedYetiDev/termview/packages/1387025)
 ##### RubyGems
   - [DarkFolio](https://github.com/redyetidev/DarkFolio)
       - [RubyGems Package](https://rubygems.org/gems/DarkFolio)
