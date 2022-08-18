@@ -3,8 +3,6 @@
 I'm RedYetiDev.
 ---
 
-I like to code in Python, JavaScript and HTML. 
-
 You can visit my [website](https://redyetidev.github.io), or just send me an [email](mailto:redyetidev@gmail.com)
 
 My Stuff
