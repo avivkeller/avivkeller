@@ -8,6 +8,8 @@ You can visit my [website](https://redyetidev.github.io), or just send me an [em
 My Stuff
 ---
 #### My Projects
+[![jsQuizizz](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=jsQuizizz)](https://github.com/redyetidev/jsQuizizz)
+
 [![Quizlet.JS](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=Quizlet.JS)](https://github.com/redyetidev/Quizlet.JS)
 
 [![TermView](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=termview)](https://github.com/redyetidev/termview)
@@ -26,6 +28,8 @@ My Stuff
 #### My Packages
 
 ##### NPM
+ - [jsQuizizz](https://github.com/redyetidev/jsQuizizz)
+    - [NPM Package](https://www.npmjs.com/package/jsquizizz)
  - [Quizlet.JS](https://github.com/redyetidev/Quizlet.JS)
     - [NPM Package](https://www.npmjs.com/package/quizlet.js)
     - [GitHub Package](https://github.com/RedYetiDev/Quizlet.JS/packages/1034993)
