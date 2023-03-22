@@ -8,6 +8,8 @@ You can visit my [website](https://redyetidev.github.io), or just send me an [em
 My Stuff
 ---
 #### My Projects
+[![termestry](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=termestry)](https://github.com/redyetidev/termestry)
+
 [![jsQuizizz](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=jsQuizizz)](https://github.com/redyetidev/jsQuizizz)
 
 [![Quizlet.JS](https://github-readme-stats.vercel.app/api/pin/?username=redyetidev&repo=Quizlet.JS)](https://github.com/redyetidev/Quizlet.JS)
@@ -28,14 +30,16 @@ My Stuff
 #### My Packages
 
 ##### NPM
+ - [termestry](https://github.com/redyetidev/termestry)
+    - [NPM Package](https://www.npmjs.com/package/termestry)
  - [jsQuizizz](https://github.com/redyetidev/jsQuizizz)
     - [NPM Package](https://www.npmjs.com/package/jsquizizz)
  - [Quizlet.JS](https://github.com/redyetidev/Quizlet.JS)
     - [NPM Package](https://www.npmjs.com/package/quizlet.js)
     - [GitHub Package](https://github.com/RedYetiDev/Quizlet.JS/packages/1034993)
-  - [blooket.js TAKEN DOWN](https://github.com/redyetidev/blooket.js)
-    - [NPM Package TAKEN DOWN](https://npmjs.com/package/blooket.js)
-    - [GitHub Package TAKEN DOWN](https://github.com/RedYetiDev/blooket.js/packages/627303)
+  - [blooket.js](https://github.com/redyetidev/blooket.js) **_(Taken down)_**
+    - [NPM Package](https://npmjs.com/package/blooket.js) **_(Taken down)_**
+    - [GitHub Package](https://github.com/RedYetiDev/blooket.js/packages/627303) **_(Taken down)_**
   - [fs-gui](https://github.com/redyetidev/fs-gui)
     - [NPM Package](https://npmjs.com/package/fs-gui)
     - [GitHub Package](https://github.com/RedYetiDev/fs-gui/packages/647885)
