@@ -1,12 +1,10 @@
-# RedYetiDev README
-
 <div align="center">
  
 ![RedYetiDev Logo](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/38299977&mask=circle&width=200)
  
 ![Made with Crayons](https://forthebadge.com/images/featured/featured-made-with-crayons.svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/RedYetiDev?label=Follow%20RedYetiDev&style=for-the-badge)](https://github.com/RedYetiDev?tab=followers) [![HackerOne - @RedYetiHacks](https://img.shields.io/badge/HackerOne-%40RedYetiHacks-brightgreen?style=for-the-badge)](https://hackerone.com/RedYetiHacks) [![npm - @RedYetiDev](https://img.shields.io/badge/npm-RedYetiDev-red?logo=npm&style=for-the-badge)](https://www.npmjs.com/~redyetidev)
+[![GitHub followers](https://img.shields.io/github/followers/RedYetiDev?label=Follow%20RedYetiDev&style=for-the-badge)](https://github.com/RedYetiDev?tab=followers) [![HackerOne - @RedYetiHacks](https://img.shields.io/badge/HackerOne-%40RedYetiHacks-brightgreen?style=for-the-badge)](https://hackerone.com/RedYetiHacks) [![npm - @RedYetiDev](https://img.shields.io/badge/npm-RedYetiDev-red?logo=npm&style=for-the-badge)](https://www.npmjs.com/~redyetidev) [![Buy Me A Coffee - @RedYetiDev](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-RedYetiDev-red?logo=coffee&style=for-the-badge)](https://www.buymeacoffee.com/redyetidev) 
  
 </div>
 
@@ -42,7 +40,7 @@ Dive into my projects and contributions on various platforms:
 
 - **HackerOne**: Explore my work related to security, ethical hacking, and responsible disclosure on [HackerOne](https://hackerone.com/RedYetiHacks). Security is a vital aspect of the digital world, and I'm committed to making it safer for everyone.
 
-> **Got An AntiVirus?**: [WannaCry](https://www.wikiwand.com/en/WannaCry_ransomware_attack), the notorious ransomware that wreaked havoc in May 2017, had an unintended "kill switch" built into its code. A security researcher named Marcus Hutchins, also known as "MalwareTech," accidentally discovered this kill switch. It turned out that the ransomware would terminate its attack if it could connect to a specific, unregistered domain. This discovery allowed cybersecurity experts to slow down the ransomware's spread and ultimately led to the development of a kill switch that helped protect many vulnerable systems. This quirk in WannaCry's design highlights the unpredictable nature of cyberattacks and the vital role of security researchers in combating them. Don't believe me? [View it on GitHub and find out](https://github.com/Explodingstuff/WannaCry)<sup>DO NOT DOWNLOAD WANNACRY. YOU <b><i>WILL</i></b> REGRET IT. [VT 70/72](https://www.virustotal.com/gui/file/24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c) | [CVE-2017-0144: 8.1](https://nvd.nist.gov/vuln/detail/CVE-2017-0144)</sup>
+> **Got An AntiVirus?**: [WannaCry](https://www.wikiwand.com/en/WannaCry_ransomware_attack), the notorious ransomware that wreaked havoc in May 2017, had an unintended "kill switch" built into its code. A security researcher named Marcus Hutchins, also known as "MalwareTech," accidentally discovered this kill switch. It turned out that the ransomware would terminate its attack if it could connect to a specific, unregistered domain. This discovery allowed cybersecurity experts to slow down the ransomware's spread and ultimately led to the development of a kill switch that helped protect many vulnerable systems. This quirk in WannaCry's design highlights the unpredictable nature of cyberattacks and the vital role of security researchers in combating them. Don't believe me? [View it on GitHub and find out](https://github.com/Explodingstuff/WannaCry)
 
 ## Visit My Website 🌐
 
