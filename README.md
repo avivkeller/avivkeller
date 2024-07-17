@@ -38,4 +38,4 @@ total 0
 -rw-rw-r-- 1 LinkedIn @RedYetiDev
 -rw-rw-r-- 1 NPM @RedYetiDev
 ```
-(My website is <https://redyetidev.github.io>)
+(My website is <https://redyeti.dev>)
