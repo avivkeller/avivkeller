@@ -26,7 +26,7 @@ $ mail
 "/var/mail/redyetidev@gmail.com": 0 messages 0 new
 ```
 
-Feel free to reach out to me at <redyetidev@gmail.com> for any inquiries or collaborations related to cybersecurity, software development, or any other tech-related discussions. I'm always excited about exploring new ideas and opportunities!
+Feel free to reach out to me at <redyetidev@gmail.com> (or <hello@redyeti.dev>) for any inquiries or collaborations related to cybersecurity, software development, or any other tech-related discussions. I'm always excited about exploring new ideas and opportunities!
 
 ### `ls`
 ```bash
