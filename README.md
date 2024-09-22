@@ -6,8 +6,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/RedYetiDev?label=Follow%20RedYetiDev&style=for-the-badge)](https://github.com/RedYetiDev?tab=followers) [![HackerOne - @RedYetiHacks](https://img.shields.io/badge/HackerOne-RedYetiHacks-brightgreen?style=for-the-badge)](https://hackerone.com/RedYetiHacks) [![npm - @RedYetiDev](https://img.shields.io/badge/npm-RedYetiDev-red?logo=npm&style=for-the-badge)](https://www.npmjs.com/~redyetidev)
 
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="BuyMeACoffee" width="140">](https://www.buymeacoffee.com/redyetidev)
-
 <h1>Hack the Planet. Reprogram the World.</h1>
 
 </div>
