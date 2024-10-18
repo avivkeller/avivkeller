@@ -1,39 +1,45 @@
-<div align="center">
- 
-[![Visit my Website!](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/38299977&mask=circle&width=200)](https://redyetidev.github.io)
- 
-![Made with Crayons](https://forthebadge.com/images/featured/featured-made-with-crayons.svg)
+# 🐾 RedYetiDev
 
-[![GitHub followers](https://img.shields.io/github/followers/RedYetiDev?label=Follow%20RedYetiDev&style=for-the-badge)](https://github.com/RedYetiDev?tab=followers) [![HackerOne - @RedYetiHacks](https://img.shields.io/badge/HackerOne-RedYetiHacks-brightgreen?style=for-the-badge)](https://hackerone.com/RedYetiHacks) [![npm - @RedYetiDev](https://img.shields.io/badge/npm-RedYetiDev-red?logo=npm&style=for-the-badge)](https://www.npmjs.com/~redyetidev)
+Hey there! 👋 I'm **RedYetiDev**, a **cybersecurity researcher** and **software developer** passionate about solving complex digital challenges. I contribute to open-source projects, actively participate in bug bounty programs, and enjoy pushing the boundaries of what technology can do.
 
-<h1>Hack the Planet. Reprogram the World.</h1>
+---
 
-</div>
+## 🚀 Hack the Planet. Reprogram the World.
 
-### `whoami`
-```bash
-$ whoami
-redyetidev
-```
+I thrive on tackling tough problems, 🔒 securing systems, and 🛠️ building innovative software solutions. My interests span from cybersecurity and ethical hacking to full-stack development and cloud computing. When I'm not coding, you might find me 🐛 hunting for vulnerabilities on platforms like [HackerOne](https://hackerone.com/redyetihacks) or [Immunefi](https://immunefi.com/profile/RedYetiDev/). You can find some of my Hall of Fames on my [LinkedIn Featured Page](https://www.linkedin.com/in/redyetidev/details/featured/).
 
-Hey there! I'm **RedYetiDev**, a cybersecurity researcher and software developer with a passion for tackling complex challenges in the digital world.
 
-### `mail`
-```bash
-$ mail
-"/var/mail/hello@redyeti.dev": 0 messages 0 new
-```
+---
 
-Feel free to reach out to me at <hello@redyeti.dev> for any inquiries or collaborations related to cybersecurity, software development, or any other tech-related discussions. I'm always excited about exploring new ideas and opportunities!
+## 🔥 What I Do
 
-### `ls`
-```bash
-$ ls
-total 0
--rw-rw-r-- 1 HackerOne @RedYetiHacks
--rw-rw-r-- 1 BugCrowd @RedYetiHacks
--rw-rw-r-- 1 Twitter @RedYetiDev
--rw-rw-r-- 1 LinkedIn @RedYetiDev
--rw-rw-r-- 1 NPM @RedYetiDev
-```
-(My website is <https://redyeti.dev>)
+- **🕵️‍♂️ Cybersecurity Researcher**: Finding and responsibly disclosing security vulnerabilities.
+- **🤝 Open-Source Contributor**: Actively contributing to projects such as [Node.js](https://github.com/nodejs/node).
+- **💻 Software Development**: Developing tools, packages, and libraries for a variety of applications. Check out some of my top projects below.
+
+---
+
+## 🌟 Top Projects
+
+Here are some projects I'm proud to share:
+
+- **[Node.js](https://github.com/nodejs/node)**: 🛠️ Contributing to the popular JavaScript runtime with features and bug fixes.
+- **[Apache Gora Website](https://gora.apache.org)**: 🎨 Designed the UI for the Gora Project's website.
+
+Explore more projects on my [repositories page](https://github.com/RedYetiDev?tab=repositories).
+
+---
+
+## 📫 Let's Connect
+
+I'm always excited to connect with like-minded individuals or organizations:
+
+- **🌐 Website**: [redyeti.dev](https://redyeti.dev)
+- **✉️ Email**: [hello@redyeti.dev](mailto:hello@redyeti.dev)
+- **🆔 ORCID**: [0009-0003-0486-7218](https://orcid.org/0009-0003-0486-7218)
+- **🐙 GitHub**: [RedYetiDev](https://github.com/RedYetiDev)
+- **💼 LinkedIn**: [RedYetiDev](https://linkedin.com/in/redyetidev)
+- **🐦 Twitter**: [@RedYetiDev](https://twitter.com/redyetidev)
+- **📦 npm**: [@RedYetiDev](https://www.npmjs.com/~redyetidev)
+
+Feel free to reach out for collaborations in cybersecurity, software development, or any tech-related discussions!
