@@ -41,5 +41,3 @@ I'm always excited to connect with like-minded individuals or organizations:
 - **💼 LinkedIn**: [RedYetiDev](https://linkedin.com/in/redyetidev)
 - **🐦 Twitter**: [@RedYetiDev](https://twitter.com/redyetidev)
 - **📦 npm**: [@RedYetiDev](https://www.npmjs.com/~redyetidev)
-
-Feel free to reach out for collaborations in cybersecurity, software development, or any tech-related discussions!
