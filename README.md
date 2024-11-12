@@ -9,7 +9,7 @@ Why “RedYetiDev”?
 
 2.	The Yeti is often labeled “abominable,” but maybe it’s just misunderstood. After all, we’ve never actually met one—making it my favorite mythical creature.
 
-3.	If your here, you probably already know what "dev" stands for :-)
+3.	If you're here, you probably already know what "dev" stands for :-)
 
 ---
 
