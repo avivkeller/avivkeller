@@ -3,11 +3,11 @@
 Hey there! 👋 I'm **Aviv Keller**, a **cybersecurity researcher** and **software developer** passionate about solving complex digital challenges. I contribute to open-source projects, actively participate in bug bounty programs, and enjoy pushing the boundaries of what technology can do.
 
 
-Why “RedYetiDev”?
+Why *"RedYetiDev"*?
 
-1.	Red is my favorite color, with turquoise coming in a close second.
+1.	$${\color{red}Red}$$ is my favorite color, with $${\color{turquoise}turquoise}$$ coming in a close second.
 
-2.	The Yeti is often labeled “abominable,” but maybe it’s just misunderstood. After all, we’ve never actually met one—making it my favorite mythical creature.
+2.	The Yeti is often labeled "abominable," but maybe it’s just misunderstood. After all, we’ve never actually met one—making it my favorite mythical creature.
 
 3.	If you're here, you probably already know what "dev" stands for :-)
 
@@ -23,7 +23,7 @@ I thrive on tackling tough problems, 🔒 securing systems, and 🛠️ building
 ## 🔥 What I Do
 
 - **🕵️‍♂️ Cybersecurity Researcher**: Finding and responsibly disclosing security vulnerabilities.
-- **🤝 Open-Source Contributor**: Actively contributing to projects such as [Node.js](https://github.com/nodejs/node).
+- **🤝 Open-Source Contributor**: Actively contributing to projects such as [Node.js](https://github.com/nodejs).
 - **💻 Software Development**: Developing tools, packages, and libraries for a variety of applications. Check out some of my top projects below.
 
 ---
@@ -32,7 +32,7 @@ I thrive on tackling tough problems, 🔒 securing systems, and 🛠️ building
 
 Here are some projects I'm proud to share:
 
-- **[Node.js](https://github.com/nodejs/node)**: 🛠️ Contributing to the popular JavaScript runtime with features and bug fixes.
+- **[Node.js](https://github.com/nodejs)**: 🛠️ Contributing to the popular JavaScript runtime with features and bug fixes.
 - **[Apache Gora Website](https://gora.apache.org)**: 🎨 Designed the UI for the Gora Project's website.
 
 Explore more projects on my [repositories page](https://github.com/RedYetiDev?tab=repositories).
