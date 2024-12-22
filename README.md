@@ -25,17 +25,3 @@ Here are some projects I'm proud to share:
 - **[Apache Gora Website](https://gora.apache.org)**: 🎨 Designed the UI for the Gora Project's website.
 
 Explore more projects on my [repositories page](https://github.com/OnlyAviv?tab=repositories).
-
----
-
-## 📫 Let's Connect
-
-I'm always excited to connect with like-minded individuals or organizations:
-
-- **🌐 Website**: [onlyaviv.com](https://onlyaviv.com)
-- **✉️ Email**: [hello@onlyaviv.com](mailto:hello@onlyaviv.com)
-- **🆔 ORCID**: [0009-0003-0486-7218](https://orcid.org/0009-0003-0486-7218)
-- **🐙 GitHub**: [OnlyAviv](https://github.com/OnlyAviv)
-- **💼 LinkedIn**: [OnlyAviv](https://linkedin.com/in/onlyaviv)
-- **🐦 Twitter**: [@OnlyAviv](https://twitter.com/onlyaviv)
-- **📦 npm**: [@RedYetiDev](https://www.npmjs.com/~redyetidev)
