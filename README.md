@@ -33,7 +33,7 @@ Explore more projects on my [repositories page](https://github.com/OnlyAviv?tab=
 I'm always excited to connect with like-minded individuals or organizations:
 
 - **🌐 Website**: [onlyaviv.com](https://onlyaviv.com)
-- **✉️ Email**: [hello@redyeti.dev](mailto:hello@onlyaviv.com)
+- **✉️ Email**: [hello@onlyaviv.com](mailto:hello@onlyaviv.com)
 - **🆔 ORCID**: [0009-0003-0486-7218](https://orcid.org/0009-0003-0486-7218)
 - **🐙 GitHub**: [OnlyAviv](https://github.com/OnlyAviv)
 - **💼 LinkedIn**: [OnlyAviv](https://linkedin.com/in/onlyaviv)
