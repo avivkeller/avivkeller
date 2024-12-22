@@ -1,15 +1,4 @@
-# 🐾 RedYetiDev
-
 Hey there! 👋 I'm **Aviv Keller**, a **cybersecurity researcher** and **software developer** passionate about solving complex digital challenges. I contribute to open-source projects, actively participate in bug bounty programs, and enjoy pushing the boundaries of what technology can do.
-
-
-Why *"RedYetiDev"*?
-
-1.	$${\color{red}Red}$$ is my favorite color, with $${\color{turquoise}turquoise}$$ coming in a close second.
-
-2.	The Yeti is often labeled "abominable," but maybe it’s just misunderstood. After all, we’ve never actually met one—making it my favorite mythical creature.
-
-3.	If you're here, you probably already know what "dev" stands for :-)
 
 ---
 
