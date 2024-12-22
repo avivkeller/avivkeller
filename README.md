@@ -24,7 +24,7 @@ Here are some projects I'm proud to share:
 - **[Node.js](https://github.com/nodejs)**: 🛠️ Contributing to the popular JavaScript runtime with features and bug fixes.
 - **[Apache Gora Website](https://gora.apache.org)**: 🎨 Designed the UI for the Gora Project's website.
 
-Explore more projects on my [repositories page](https://github.com/RedYetiDev?tab=repositories).
+Explore more projects on my [repositories page](https://github.com/OnlyAviv?tab=repositories).
 
 ---
 
@@ -35,7 +35,7 @@ I'm always excited to connect with like-minded individuals or organizations:
 - **🌐 Website**: [redyeti.dev](https://redyeti.dev)
 - **✉️ Email**: [hello@redyeti.dev](mailto:hello@redyeti.dev)
 - **🆔 ORCID**: [0009-0003-0486-7218](https://orcid.org/0009-0003-0486-7218)
-- **🐙 GitHub**: [RedYetiDev](https://github.com/RedYetiDev)
+- **🐙 GitHub**: [OnlyAviv](https://github.com/OnlyAviv)
 - **💼 LinkedIn**: [RedYetiDev](https://linkedin.com/in/redyetidev)
-- **🐦 Twitter**: [@RedYetiDev](https://twitter.com/redyetidev)
+- **🐦 Twitter**: [@OnlyAviv](https://twitter.com/redyetidev)
 - **📦 npm**: [@RedYetiDev](https://www.npmjs.com/~redyetidev)
