@@ -4,7 +4,7 @@ Hey there! 👋 I'm **Aviv Keller**, a **cybersecurity researcher** and **softwa
 
 ## 🚀 Hack the Planet. Reprogram the World.
 
-I thrive on tackling tough problems, 🔒 securing systems, and 🛠️ building innovative software solutions. My interests span from cybersecurity and ethical hacking to full-stack development and cloud computing. When I'm not coding, you might find me 🐛 hunting for vulnerabilities on platforms like [HackerOne](https://hackerone.com/redyetihacks) or [Immunefi](https://immunefi.com/profile/RedYetiDev/). You can find some of my Hall of Fames on my [LinkedIn Featured Page](https://www.linkedin.com/in/redyetidev/details/featured/).
+I thrive on tackling tough problems, 🔒 securing systems, and 🛠️ building innovative software solutions. My interests span from cybersecurity and ethical hacking to full-stack development and cloud computing. When I'm not coding, you might find me 🐛 hunting for vulnerabilities on platforms like [HackerOne](https://hackerone.com/onlyaviv) or [Immunefi](https://immunefi.com/profile/onlyaviv/). You can find some of my Hall of Fames on my [LinkedIn Featured Page](https://www.linkedin.com/in/onlyaviv/details/featured/).
 
 
 ---
@@ -32,8 +32,8 @@ Explore more projects on my [repositories page](https://github.com/OnlyAviv?tab=
 
 I'm always excited to connect with like-minded individuals or organizations:
 
-- **🌐 Website**: [redyeti.dev](https://redyeti.dev)
-- **✉️ Email**: [hello@redyeti.dev](mailto:hello@redyeti.dev)
+- **🌐 Website**: [onlyaviv.com](https://onlyaviv.com)
+- **✉️ Email**: [hello@redyeti.dev](mailto:hello@onlyaviv.com)
 - **🆔 ORCID**: [0009-0003-0486-7218](https://orcid.org/0009-0003-0486-7218)
 - **🐙 GitHub**: [OnlyAviv](https://github.com/OnlyAviv)
 - **💼 LinkedIn**: [OnlyAviv](https://linkedin.com/in/onlyaviv)
