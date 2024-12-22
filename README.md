@@ -37,5 +37,5 @@ I'm always excited to connect with like-minded individuals or organizations:
 - **🆔 ORCID**: [0009-0003-0486-7218](https://orcid.org/0009-0003-0486-7218)
 - **🐙 GitHub**: [OnlyAviv](https://github.com/OnlyAviv)
 - **💼 LinkedIn**: [OnlyAviv](https://linkedin.com/in/onlyaviv)
-- **🐦 Twitter**: [@OnlyAviv](https://twitter.com/redyetidev)
+- **🐦 Twitter**: [@OnlyAviv](https://twitter.com/onlyaviv)
 - **📦 npm**: [@RedYetiDev](https://www.npmjs.com/~redyetidev)
