@@ -39,4 +39,4 @@ for (animal in shelter) {
 When I'm not coding, I'm out there making the world a better place, one furry friend at a time.
 Join me in donating to local shelters and let's spread the love together! 🌟
 
-Remember: A little kindness can go a long way. Let's make some tails wag and some hearts soar! 🐾❤️
+**Remember: A little kindness can go a long way. Let's make some tails wag and some hearts soar! 🐾❤️**
