@@ -25,3 +25,18 @@ Here are some projects I'm proud to share:
 - **[Apache Gora Website](https://gora.apache.org)**: 🎨 Designed the UI for the Gora Project's website.
 
 Explore more projects on my [repositories page](https://github.com/avivkeller?tab=repositories).
+
+---
+
+## 🐾 Do good
+
+```js
+for (animal in shelter) {
+  donateTo(animal);
+}
+```
+
+When I'm not coding, I'm out there making the world a better place, one furry friend at a time.
+Join me in donating to local shelters and let's spread the love together! 🌟
+
+Remember: A little kindness can go a long way. Let's make some tails wag and some hearts soar! 🐾❤️
