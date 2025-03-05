@@ -4,7 +4,7 @@ Hey there! 👋 I'm **Aviv Keller**, a **cybersecurity researcher** and **softwa
 
 ## 🚀 Hack the Planet. Reprogram the World.
 
-I thrive on tackling tough problems, 🔒 securing systems, and 🛠️ building innovative software solutions. My interests span from cybersecurity and ethical hacking to full-stack development and cloud computing. When I'm not coding, you might find me 🐛 hunting for vulnerabilities on platforms like [HackerOne](https://hackerone.com/onlyaviv) or [Immunefi](https://immunefi.com/profile/avivkeller/). You can find some of my Hall of Fames on my [LinkedIn Featured Page](https://www.linkedin.com/in/avivkeller/details/featured/).
+I thrive on tackling tough problems, 🔒 securing systems, and 🛠️ building innovative software solutions. My interests span from cybersecurity and ethical hacking to full-stack development and cloud computing. When I'm not coding, you might find me 🐛 hunting for vulnerabilities on platforms like [HackerOne](https://hackerone.com/aviv_keller) or [Immunefi](https://immunefi.com/profile/avivkeller/). You can find some of my Hall of Fames on my [LinkedIn Featured Page](https://www.linkedin.com/in/avivkeller/details/featured/).
 
 
 ---
