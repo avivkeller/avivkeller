@@ -22,7 +22,7 @@ I thrive on tackling tough problems, 🔒 securing systems, and 🛠️ building
 Here are some projects I'm proud to share:
 
 - **[Node.js](https://github.com/nodejs)**: 🛠️ Contributing to the popular JavaScript runtime with features and bug fixes.
-- **[Apache Gora Website](https://gora.apache.org)**: 🎨 Designed the UI for the Gora Project's website.
+  - *Like the Logo? Thanks! I designed the most recent iteration.*
 
 Explore more projects on my [repositories page](https://github.com/avivkeller?tab=repositories).
 
